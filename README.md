@@ -37,7 +37,7 @@ Warning: This is a backend modification. Backup your environment before proceedi
 ## Special thanks:
 
 - Jaret Burkett (Ostris) - AI-Toolkit author, [PR request](https://github.com/orakulstorm-hue/ai-toolkit)
-- ComfyUI developers - Official MAX_RESOLUTION update
+- ComfyUI developers - Official [MAX_RESOLUTION update](https://github.com/comfy-org/ComfyUI)
 
 
 ## 📜 License
