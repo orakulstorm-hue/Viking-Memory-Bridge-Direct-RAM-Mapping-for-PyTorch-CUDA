@@ -77,7 +77,7 @@ Warning: This is a backend modification. Backup your environment before proceedi
 
 ## Video: 120 steps, resolution 32768x18432, 6 min generation time
 
-
+<video src="demo.mp4" controls="controls" style="max-width: 100%;"></video>
 
 
 ## Special thanks:
