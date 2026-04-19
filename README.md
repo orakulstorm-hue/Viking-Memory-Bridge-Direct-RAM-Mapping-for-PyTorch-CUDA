@@ -31,7 +31,7 @@ Warning: This is a backend modification. Backup your environment before proceedi
 - Stability: 0% Pagefile usage; 100% stable 16K tiled encoding.
 
 ## 5. Example images
-(images/image1.jpg)
+![Example images](images/image1.jpg)
 
 ##Special thanks:
 
