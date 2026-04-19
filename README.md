@@ -32,7 +32,7 @@ Warning: This is a backend modification. Backup your environment before proceedi
 
 ## 5. Example images
 ![Example images](images/image1.jpg)
-(images/image2.jpg)
+![Example images](images/image2.jpg)
 ##Special thanks:
 
 - Jaret Burkett (Ostris) - AI-Toolkit author, PR request
