@@ -33,13 +33,14 @@ Warning: This is a backend modification. Backup your environment before proceedi
 ## 5. Example images
 ![Example images](images/image1.jpg)
 ![Example images](images/image2.jpg)
-##Special thanks:
+
+## Special thanks:
 
 - Jaret Burkett (Ostris) - AI-Toolkit author, PR request
 - ComfyUI developers - Official MAX_RESOLUTION update
 
 
-##📜 License
+## 📜 License
 - Viking Engine modifications released under MIT License.
 - Free to use, modify, distribute commercially or non-commercially.
 - Attribution appreciated but not required.
