@@ -73,8 +73,8 @@ Warning: This is a backend modification. Backup your environment before proceedi
 ![Example images](images/image1.jpg)
 ![Example images](images/image2.jpg)
 
-## Video
-![Video](video/video1.mp4)
+## Video: 120 steps, resolution 32768x18432, 6 min generation time
+<video src="video1.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ## Special thanks:
 
