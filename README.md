@@ -71,6 +71,9 @@ Warning: This is a backend modification. Backup your environment before proceedi
 ![Example images](images/image1.jpg)
 ![Example images](images/image2.jpg)
 
+## Video
+![Video](video/video1.mp4)
+
 ## Special thanks:
 
 - Jaret Burkett (Ostris) - AI-Toolkit author, [PR request](https://github.com/orakulstorm-hue/ai-toolkit)
