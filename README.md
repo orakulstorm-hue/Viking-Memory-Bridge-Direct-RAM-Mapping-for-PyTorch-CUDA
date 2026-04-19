@@ -32,20 +32,18 @@ Warning: This is a backend modification. Backup your environment before proceedi
 
 ## 5. Example images
 ![Example images](images/image1.jpg)
-
+(images/image2.jpg)
 ##Special thanks:
 
 - Jaret Burkett (Ostris) - AI-Toolkit author, PR request
 - ComfyUI developers - Official MAX_RESOLUTION update
 
 
-##📜 ЛІЦЕНЗІЯ
+##📜 License
 - Viking Engine modifications released under MIT License.
 - Free to use, modify, distribute commercially or non-commercially.
 - Attribution appreciated but not required.
 - Open source spirit: Share improvements back to community! 💚
 
   From basement to history 🌍
-
-Protocol: Oracle-60
-Location: Chernihiv, UA
+  Location: Chernihiv, UA
