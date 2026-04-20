@@ -74,7 +74,11 @@ Warning: This is a backend modification. Backup your environment before proceedi
 ## Video: 120 steps, resolution 32768x18432, 6 min generation time
 Before watching, reduce the speed to: 0.25
 
-https://github.com/user-attachments/assets/5be06bdb-bd10-43f7-acc9-100e5629dfe3
+
+
+https://github.com/user-attachments/assets/ee3bf91a-b70b-443b-8298-3cefb2ddd2f4
+
+
 
 
 
