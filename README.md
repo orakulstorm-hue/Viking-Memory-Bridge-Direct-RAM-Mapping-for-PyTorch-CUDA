@@ -260,14 +260,14 @@ RAM requirements scale:
 **Included in repo:**
 
 ### **Image:**
-- File: `ORAKUL_STUDIO_00004.png`
+- File: `images/image5.png`
 - Resolution: 32,768 × 18,432 pixels
 - Size: 164.3 MB
 - Subject: Photorealistic rain scene
 - Model: FLUX.2-dev (likely)
 
 ### **Video:**
-- File: `Demo2.mp4`
+- File: `video/Demo2.mp4`
 - Details: High-resolution video generation demo
 - Showcases: Temporal consistency at extreme resolution
 
@@ -444,8 +444,8 @@ comfyui-viking-engine/
 ├── streams.py (Priority streams + sync)
 ├── graphs.py (CUDA graph support)
 ├── proof/
-│   ├── ORAKUL_STUDIO_00004.png (32K image)
-│   └── Demo2.mp4 (video demo)
+│   ├── images/image5.png (32K image)
+│   └── video/Demo2.mp4 (video demo)
 └── patches/
     └── viking_engine.patch (git patch file)
 ```
