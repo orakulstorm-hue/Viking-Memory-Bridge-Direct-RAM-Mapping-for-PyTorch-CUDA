@@ -66,7 +66,7 @@ Tensor Cores (int8): 4096 FMA/cycle/SM  # Insane throughput
 
 ### **3. Pin Memory Bridge ("Viking Memory Bridge")**
 
-**File:** `_pin_memory_utils.py`
+**File:** [_pin_memory_utils.py](viking_core/_pin_memory_utils.py)
 
 ```python
 # VIKING OPTIMIZATION:
