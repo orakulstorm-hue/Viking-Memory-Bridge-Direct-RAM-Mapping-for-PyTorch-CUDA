@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/75d44cae-0796-43ae-8159-52321998ab68
 
 ### **1. Resolution Unlock**
 
-**File:** `viking_core/nodes.py` (line 57)
+**File:** `nodes.py` (line 57)
 
 ```python
 # BEFORE:
@@ -496,6 +496,6 @@ cp viking-engine/* comfy/
 
 **License:** CC BY-SA 4.0  
 **Status:** Production-ready (tested on RTX 4090)  
-**Repository:** [oracle-pstate-unlock/comfyui-viking-engine](https://github.com/orakulstorm-hue)
+**Repository:** [Viking-Memory-Bridge-Direct-RAM-Mapping-for-PyTorch-CUDA](https://github.com/orakulstorm-hue)
 
 *"Overclockers forever. Now with 32K support."* 🔥⚡
