@@ -47,7 +47,7 @@ MAX_RESOLUTION = 40960  # 40K support!
 
 ### **2. RTX 4090 Hardware Profile**
 
-**File:** `_device_limits.py`
+**File:** [_device_limits.py](viking_core/_device_limits.py)
 
 ```python
 # Added RTX 4090 (compute capability 89) optimizations:
