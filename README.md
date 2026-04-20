@@ -139,7 +139,7 @@ torch.cuda.empty_cache()
 
 ### **6. Event Synchronization Hardening**
 
-**File:** `streams.py`
+**File:** [streams.py](viking_core/streams.py)
 
 ```python
 # VIKING FORCE SYNC:
